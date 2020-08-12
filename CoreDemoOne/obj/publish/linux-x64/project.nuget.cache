@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9l4ZPZkavOyoJo1KGW5CjAchfa+fSpamT8g6Ha4N+lL1AUO+r/v1mYVd2/F+d3eA4INO0ENeO8GpsrGnxzZayA==",
+  "success": true,
+  "projectFilePath": "E:\\_myprogramme\\CoreDemoOne\\CoreDemoOne\\CoreDemoOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\帅举\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.6\\microsoft.netcore.app.runtime.linux-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\帅举\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.6\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\帅举\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.6\\microsoft.netcore.app.host.linux-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
